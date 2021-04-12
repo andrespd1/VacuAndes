@@ -1,0 +1,23 @@
+{
+	"title": "Nombres de las tablas de Parranderos Uniandes para la aplicación B",
+	"unidadPersistencia": "VacuAndes",
+	"tablas":
+	[
+		"VacuAndes_sequence",
+		"B_AdministradoresOficinaEps",
+		"B_AdministradoresPlanVacunacion",
+		"B_AdministradoresPuntoVacunacion",
+		"B_Cargos",
+		"B_CitasVacunacion",
+		"B_Ciudadanos",
+		"B_Departamentos",
+		"B_LotesVacunas",
+		"B_MinisterioSalud",
+		"B_OperadoresPuntoVacunacion",
+		"B_PlanVacunacion",
+		"B_PuntosVacunacion",
+		"B_TalentoHumano",
+		"B_Usuarios",
+		"B_Vacunas"
+	]
+}
